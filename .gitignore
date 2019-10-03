@@ -1,0 +1,11 @@
+*.jpg
+*.pyc
+*.exe
+*.txt
+*.hdf5
+*.tflite
+*.json
+*.png
+
+google_hotdog.py
+rename_data.py
